@@ -5,6 +5,6 @@ Create a folder called Crasher in "C:\Users\%user%\AppData\Roaming\.minecraft\ve
 
 Go to the Launcher and look for a version called Crasher or the name you put in the folder.
 
-Command Help: .help
+Command Help: *.help*
 
 Good Game!
